@@ -4,12 +4,13 @@
 <h2>HTML</h2>
 <a href="https://htmlcheatsheet.com/?fbclid=IwAR1VgGnQ6i1ZqhzgxWd5lC7Asx24gyRi-_hQVrf6iXVwX-iUYVpwMM6YBiI" target="_Blank">HTML Cheat Sheet</a><br>
 <a href="https://metring.com.br/como-utilizar-o-google-fonts" target="_Blank">Utilizando fontes do Google Fonts</a><br>
+<a href="https://html-online.com/articles/cookie-consent-warning-strap-website/" target="_Blank">Alerta de Cookies no site Inglês</a><br>
 <br><br>
 
 
 <h2>JS</h2>
 <a href="https://metring.com.br/diferenca-entre-datas-em-javascript" target="_Blank">Tutorial para datas Português</a><br>
-<a href="https://www.scriptol.com/javascript/dates-difference.php" target="_Blank">Tutorial para datas Ingles</a>
+<a href="https://www.scriptol.com/javascript/dates-difference.php" target="_Blank">Tutorial para datas Inglês</a>
 <br><br>
 
 
