@@ -2,6 +2,7 @@
 <p>Links e outras coisas úteis</p>
 
 <h2>HTML</h2>
+<a href="https://htmlcheatsheet.com/?fbclid=IwAR1VgGnQ6i1ZqhzgxWd5lC7Asx24gyRi-_hQVrf6iXVwX-iUYVpwMM6YBiI" target="_Blank">HTML Cheat Sheet</a><br>
 <a href="https://metring.com.br/como-utilizar-o-google-fonts" target="_Blank">Utilizando fontes do Google Fonts</a><br>
 <br><br>
 
@@ -17,6 +18,9 @@
 
 <br><br>
 
+
+<h2>SEO</h2>
+<a href="https://htmlcheatsheet.com/seo/?fbclid=IwAR1iYHOQaN1NZ79JDlCuo8bNyLFavbQhCDAzWBSaNB7uF8__7brPqLS7HpY" target="_Blank">SEO Cheat Sheet</a>
 
 <h2>GIT</h2>
 <a href="https://itch.io/jam/game-off-2020" target="_Blank">Itch.io Game off</a><br>
