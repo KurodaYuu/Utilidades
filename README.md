@@ -17,6 +17,7 @@
 
 <h2>CSS</h2>
 <a href="https://metring.com.br/css-classe-dentro-de-outra-classe" target="_Blank">Classes</a>
+<a href="https://nostalgic-css.github.io/NES.css/" target="_Blank">NES.css</a>
 
 <br><br>
 
