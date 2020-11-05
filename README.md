@@ -11,6 +11,7 @@
 <h2>JS</h2>
 <a href="https://metring.com.br/diferenca-entre-datas-em-javascript" target="_Blank">Tutorial para datas Português</a><br>
 <a href="https://www.scriptol.com/javascript/dates-difference.php" target="_Blank">Tutorial para datas Inglês</a>
+<a href="https://github.com/bfintal/Counter-Up2" target="_Blank">CounterUp2 Animação de contagem de números</a>
 <br><br>
 
 
