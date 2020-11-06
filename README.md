@@ -22,6 +22,7 @@
 <a href="https://nostalgic-css.github.io/NES.css/" target="_Blank">NES.css</a><br>
 <a href="https://uigradients.com/" target="_Blank">Gradient</a><br>
 <a href="https://deploy-preview-1067--clever-boyd-7dd108.netlify.app/index.html" target="_Blank">sButtons</a><br>
+<a href="https://loading.io" target="_Blank">Loading.io</a><br>
 
 <br><br>
 
