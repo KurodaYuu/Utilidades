@@ -5,6 +5,7 @@
 <a href="https://htmlcheatsheet.com/?fbclid=IwAR1VgGnQ6i1ZqhzgxWd5lC7Asx24gyRi-_hQVrf6iXVwX-iUYVpwMM6YBiI" target="_Blank">HTML Cheat Sheet</a><br>
 <a href="https://metring.com.br/como-utilizar-o-google-fonts" target="_Blank">Utilizando fontes do Google Fonts</a><br>
 <a href="https://html-online.com/articles/cookie-consent-warning-strap-website/" target="_Blank">Alerta de Cookies no site Inglês</a><br>
+<a href="https://codepen.io/borntofrappe/pen/aboPapm" target="_Blank">Dark/Light mode</a><br>
 
 <br><br>
 
