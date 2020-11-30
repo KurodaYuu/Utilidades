@@ -24,6 +24,7 @@
 <a href="https://uigradients.com/" target="_Blank">Gradient</a><br>
 <a href="https://deploy-preview-1067--clever-boyd-7dd108.netlify.app/index.html" target="_Blank">sButtons</a><br>
 <a href="https://loading.io" target="_Blank">Loading.io</a><br>
+<a href="http://gudh.github.io/ihover/dist/index.html" target="_Blank">iHover</a><br>
 
 <br><br>
 
