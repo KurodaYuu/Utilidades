@@ -6,7 +6,6 @@
 <a href="https://metring.com.br/como-utilizar-o-google-fonts" target="_Blank">Utilizando fontes do Google Fonts</a><br>
 <a href="https://html-online.com/articles/cookie-consent-warning-strap-website/" target="_Blank">Alerta de Cookies no site Inglês</a><br>
 <a href="https://codepen.io/borntofrappe/pen/aboPapm" target="_Blank">Dark/Light mode</a><br>
-<a href="https://awik.io/background-image-zoom-hover/" target="_Blank">Zoom na imagem :hover</a>
 
 <br><br>
 
@@ -26,7 +25,7 @@
 <a href="https://deploy-preview-1067--clever-boyd-7dd108.netlify.app/index.html" target="_Blank">sButtons</a><br>
 <a href="https://loading.io" target="_Blank">Loading.io</a><br>
 <a href="http://gudh.github.io/ihover/dist/index.html" target="_Blank">iHover</a><br>
-
+<a href="https://awik.io/background-image-zoom-hover/" target="_Blank">Zoom na imagem :hover</a>
 <br><br>
 
 
@@ -40,5 +39,9 @@
 
 <br><br>
 
+<h2>Segurança<h2>
+<a href="https://dev.to/mattferderer/what-is-csp-why--how-to-add-it-to-your-website-28df" target="_Blank">CSP</a>
+  
+<br><br>
 
 <i style="color: #684BB5; text-decoration:line-through;">Batata</i>
