@@ -6,6 +6,7 @@
 <a href="https://metring.com.br/como-utilizar-o-google-fonts" target="_Blank">Utilizando fontes do Google Fonts</a><br>
 <a href="https://html-online.com/articles/cookie-consent-warning-strap-website/" target="_Blank">Alerta de Cookies no site Inglês</a><br>
 <a href="https://codepen.io/borntofrappe/pen/aboPapm" target="_Blank">Dark/Light mode</a><br>
+<a href="https://bootstrapious.com/p/bootstrap-sidebar" target="_Blank">Menu Lateral</a><br>
 
 <br><br>
 
