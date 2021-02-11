@@ -33,6 +33,7 @@
 
 <h2>SEO</h2>
 <a href="https://htmlcheatsheet.com/seo/?fbclid=IwAR1iYHOQaN1NZ79JDlCuo8bNyLFavbQhCDAzWBSaNB7uF8__7brPqLS7HpY" target="_Blank">SEO Cheat Sheet</a><br>
+<a href="developers.google.com/speed/pagespeed/insights/" target="_Blank">Teste de Velocidade do Site</a><br>
 
 <br><br>
 
