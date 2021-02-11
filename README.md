@@ -27,6 +27,7 @@
 <a href="https://loading.io" target="_Blank">Loading.io</a><br>
 <a href="http://gudh.github.io/ihover/dist/index.html" target="_Blank">iHover</a><br>
 <a href="https://awik.io/background-image-zoom-hover/" target="_Blank">Zoom na imagem :hover</a>
+<a href="https://coolbackgrounds.io" target="_Blank">Backgrounds Legais</a>
 <br><br>
 
 
